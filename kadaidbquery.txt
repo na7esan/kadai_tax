@@ -12,4 +12,4 @@ CREATE TABLE person (
 
 
 -- （3）データを1件保存するSQL文
-INSERT INTO person (name, age) VALUES ("watada", 34);
+INSERT INTO person (name, age) VALUES ("tanaka", 25);
