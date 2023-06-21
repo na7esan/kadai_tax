@@ -1,5 +1,6 @@
 -- （1）kadaidb データベースを作成するSQL文
 CREATE DATABASE kadaidb CHARACTER SET utf8mb4 COLLATE utf8mb4_bin;
+use kadaidb;
 
 
 -- （2）person テーブルを作成するSQL文
